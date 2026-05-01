@@ -362,7 +362,7 @@ The BFS in `bfsPath()` only traverses cells in `visited ∪ safeInferred` — it
 
 <div align="center">
 
-**Basam Babar**
+**Aqeel Ahmad**
 
 *Knowledge-Based Systems · Artificial Intelligence · Frontend Engineering*
 
